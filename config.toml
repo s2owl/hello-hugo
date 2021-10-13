@@ -5,5 +5,5 @@ title = "Hello Hugo"
 name = "John Doe"
 description = "hello, world"
 
-theme = "mainroad"
+theme = "showcase"
 paginate = "10"
